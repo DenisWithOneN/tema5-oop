@@ -8,8 +8,8 @@
 </head>
 <body>
 
-<a href=laptopinput>exercitiul 3</a>
-<a href=covertinput>exercitiul 4</a>
+<a href="laptopsinput">exercitiul 3</a>
+<a href="convertinput">exercitiul 4</a>
 
 </body>
 </html>

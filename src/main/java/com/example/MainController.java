@@ -89,7 +89,10 @@ public class MainController {
 	}
 	
 	@GetMapping("/")
-	public String showHomePage() {
-		return "index";
+	public ModelAndView displayHomePage() {
+		ModelAndView mav = new ModelAndView();
+		mav.setViewName("index");
+		
+		return mav;
 	}
 }

@@ -17,5 +17,7 @@
 	Si are ${brandlength} caractere
 	<br>
 	Paritate: ${parity}
+	<br>
+	
 </body>
 </html>
